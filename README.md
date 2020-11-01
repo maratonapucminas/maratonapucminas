@@ -8,5 +8,10 @@ Que você tenha uma ótima competição mas que principalmente se divirta!
 
 Vem com a gente!
 
- ![Alt Text](https://media.giphy.com/media/m2Q7FEc0bEr4I/giphy.gif)
+
+<div align="center">
+<img src=ttps://media.giphy.com/media/m2Q7FEc0bEr4I/giphy.gif" >
+<p>Perfectly balanced</p>
+</div>
+
 
