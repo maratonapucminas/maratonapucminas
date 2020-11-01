@@ -11,7 +11,6 @@ Vem com a gente!
 
 <div align="center">
 <img src=ttps://media.giphy.com/media/m2Q7FEc0bEr4I/giphy.gif" >
-<p>Perfectly balanced</p>
 </div>
 
 
